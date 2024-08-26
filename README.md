@@ -1,4 +1,4 @@
-# DS160_Final_Project_MAZ
+# Detecting-Diabetes
 Summary:
 
 
